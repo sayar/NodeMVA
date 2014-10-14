@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02_HelloWorldHTTP", "02_HelloWorldHTTP\02_HelloWorldHTTP.njsproj", "{69B6BC1B-8847-407C-917E-BF80E6A32203}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{261162A0-B746-4EA0-A307-E5E4128F9257}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{261162A0-B746-4EA0-A307-E5E4128F9257}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{261162A0-B746-4EA0-A307-E5E4128F9257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B6BC1B-8847-407C-917E-BF80E6A32203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B6BC1B-8847-407C-917E-BF80E6A32203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B6BC1B-8847-407C-917E-BF80E6A32203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B6BC1B-8847-407C-917E-BF80E6A32203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+{
+  "name": "_02_HelloWorldHTTP",
+  "version": "0.0.0",
+  "description": "02_HelloWorldHTTP",
+  "main": "app.js",
+  "author": {
+    "name": "Rami Sayar",
+    "email": ""
+  }
+}
