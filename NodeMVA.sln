@@ -19,6 +19,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "04_CallbackInsanity", "04_C
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "05_HelloWorldTCP", "05_HelloWorldTCP\05_HelloWorldTCP.njsproj", "{2DD0D3ED-CCF9-4951-9BD6-53A400D56FE8}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "06_Streams", "06_Streams\06_Streams.njsproj", "{4D797A54-38F8-4DCC-86E4-24C349D58EB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2DD0D3ED-CCF9-4951-9BD6-53A400D56FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DD0D3ED-CCF9-4951-9BD6-53A400D56FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DD0D3ED-CCF9-4951-9BD6-53A400D56FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D797A54-38F8-4DCC-86E4-24C349D58EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D797A54-38F8-4DCC-86E4-24C349D58EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D797A54-38F8-4DCC-86E4-24C349D58EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D797A54-38F8-4DCC-86E4-24C349D58EB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+{
+  "name": "_06_Streams",
+  "version": "0.0.0",
+  "description": "06_Streams",
+  "main": "app.js",
+  "author": {
+    "name": "Rami Sayar",
+    "email": ""
+  }
+}
