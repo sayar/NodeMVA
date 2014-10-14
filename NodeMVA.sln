@@ -25,6 +25,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "07_BasicExpress", "07_Basic
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "08_ExpressREST", "08_ExpressREST\08_ExpressREST.njsproj", "{31926211-D6EC-4E7C-BE7B-D24571F3CA6B}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "09_NodeChatroom", "09_NodeChatroom\09_NodeChatroom.njsproj", "{216FEF5B-BAE6-44DB-8EBD-16E6D09842F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{31926211-D6EC-4E7C-BE7B-D24571F3CA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31926211-D6EC-4E7C-BE7B-D24571F3CA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31926211-D6EC-4E7C-BE7B-D24571F3CA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216FEF5B-BAE6-44DB-8EBD-16E6D09842F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216FEF5B-BAE6-44DB-8EBD-16E6D09842F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216FEF5B-BAE6-44DB-8EBD-16E6D09842F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216FEF5B-BAE6-44DB-8EBD-16E6D09842F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
