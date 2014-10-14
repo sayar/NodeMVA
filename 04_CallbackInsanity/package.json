@@ -1,0 +1,10 @@
+{
+  "name": "_04_CallbackInsanity",
+  "version": "0.0.0",
+  "description": "04_CallbackInsanity",
+  "main": "app.js",
+  "author": {
+    "name": "Rami Sayar",
+    "email": ""
+  }
+}

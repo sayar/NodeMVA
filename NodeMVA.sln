@@ -15,6 +15,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02_HelloWorldHTTP", "02_Hel
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "03_FileIO", "03_FileIO\03_FileIO.njsproj", "{B2BA44EB-6DCE-4DEE-A2C7-1FCFDCCECA0A}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "04_CallbackInsanity", "04_CallbackInsanity\04_CallbackInsanity.njsproj", "{780776B3-8FB7-4558-A597-17A630221A24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B2BA44EB-6DCE-4DEE-A2C7-1FCFDCCECA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2BA44EB-6DCE-4DEE-A2C7-1FCFDCCECA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2BA44EB-6DCE-4DEE-A2C7-1FCFDCCECA0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780776B3-8FB7-4558-A597-17A630221A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780776B3-8FB7-4558-A597-17A630221A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780776B3-8FB7-4558-A597-17A630221A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780776B3-8FB7-4558-A597-17A630221A24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
