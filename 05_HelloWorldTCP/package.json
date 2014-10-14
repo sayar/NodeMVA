@@ -1,0 +1,10 @@
+{
+  "name": "_05_HelloWorldTCP",
+  "version": "0.0.0",
+  "description": "05_HelloWorldTCP",
+  "main": "server.js",
+  "author": {
+    "name": "Rami Sayar",
+    "email": ""
+  }
+}
