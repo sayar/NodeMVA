@@ -1,0 +1,15 @@
+{
+  "name": "_08_ExpressREST",
+  "version": "0.0.0",
+  "description": "08_ExpressREST",
+  "main": "app.js",
+  "author": {
+    "name": "Rami Sayar",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
