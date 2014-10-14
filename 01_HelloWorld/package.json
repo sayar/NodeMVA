@@ -1,0 +1,10 @@
+{
+  "name": "_01_HelloWorld",
+  "version": "0.0.0",
+  "description": "Hello World",
+  "main": "app.js",
+  "author": {
+    "name": "Rami Sayar",
+    "email": ""
+  }
+}
