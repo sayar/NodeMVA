@@ -1,6 +1,6 @@
 # Project Repository for Building Apps with Node.js Microsoft Virtual Academy
 
-This is the project repository containing the source code for all the demos in the "Building Apps with Node.js" Micorosft Virtual Academy course. 
+This is the project repository containing the source code for all the demos in the "Building Apps with Node.js" Microsoft Virtual Academy course. 
 
 ## Useful Resources
 
