@@ -1,0 +1,17 @@
+{
+  "name": "webjobsimple",
+  "version": "1.0.0",
+  "description": "Example simple web job that shows it being called ",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Azure",
+    "Web",
+    "Job"
+  ],
+  "author": "Stacey Mulcahy",
+  "license": "ISC"
+}

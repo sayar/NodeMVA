@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  h1= title
+  h2#maintitle Where shall we go today?
+  p
+   | If I could, I would spend all my time on  
+   a(href="http://expedia.com") Expedia 
+   | and book flights on someone else's dime.
+   
+   div
+    ul
+     each val, index in places
+      li= index + ': ' + val.url
+  
+  
