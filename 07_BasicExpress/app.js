@@ -5,7 +5,7 @@
 
 var express = require('express');
 var morgan  require('morgan');
-var json = require('json3');
+var bodyParser = require('body-parser');
 var routes = require('./routes');
 var user = require('./routes/user');
 var http = require('http');
@@ -19,7 +19,7 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 //app.use(express.favicon());
 app.use(morgan('dev'));
-app.use(json());
+app.use(bodyParser.json());
 //app.use(express.urlencoded());
 //app.use(express.methodOverride());
 //app.use(app.router);
