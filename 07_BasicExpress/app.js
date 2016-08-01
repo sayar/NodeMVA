@@ -9,6 +9,7 @@ var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
 var errorhandler = require('errorhandler');
 var routes = require('./routes');
+var user = require('./routes/user');
 var path = require('path');
 
 var app = express();
